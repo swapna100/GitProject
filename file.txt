@@ -1,3 +1,4 @@
 Add Line 1 - commit1 in master
 Add Line 4 - commit1 in feature2
 Add Line 5 - commit2 in feature2
+Add Line 6 - commit3 in feature2
