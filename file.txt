@@ -1,1 +1,2 @@
 Add Line 1 - commit1 in master
+Add line 3 - commit 1 in Hotfix
