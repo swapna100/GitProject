@@ -1,1 +1,2 @@
 Add Line 1 - commit1 in master
+Add Line 4 - commit1 in feature2
