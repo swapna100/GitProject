@@ -4,4 +4,9 @@ Add line 3 - commit 1 in Hotfix
 Add Line 4 - commit1 in feature2
 Add Line 5 - commit2 in feature2
 Add Line 6 - commit3 in feature2
+Add Line 7 - commit1 in feature1
+Add Line 8 - commit2 in feature1
+Add Line 9 - commit3 in feature1
+Add Line 10 - commit4 in feature1
+
 
