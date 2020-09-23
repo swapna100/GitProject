@@ -1,6 +1,6 @@
 Add Line 1 - commit1 in master
 
-Add line 3 - commit 1 in Hotfix
+Add line 3 - commit 1 in Hotfix, modify - commit 2 in Hotfix
 Add Line 4 - commit1 in feature2
 Add Line 5 - commit2 in feature2
 Add Line 6 - commit3 in feature2
